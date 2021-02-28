@@ -1,6 +1,6 @@
-# SQL challenge
+# SQL challenge - EmployeeSQL
 
-## EmployeeSQL
+
 
 ## Background
 
